@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+@font-face {
+  font-family: WildBreath;
+  src: url(theWildBreathOfZelda.otf) format("opentype");
+}
+
+body {
+  font-family: WildBreath;
+  font-size: 20px;
+  background: #ece6d9;
+}
+
